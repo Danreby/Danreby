@@ -5,11 +5,11 @@
 </div>
 
 <p>
-  Saudações, mortais. Eu sou o enigma que habita as sombras eternas e a escuridão do mais profundo abismo congelado.
+  Opa, como vai? Pega um café ou copo d'agua ai, fica a vontade vai
 </p>
 
 <p>
-  Mergulhado nas sombras e envolto em mistérios, minha paixão pela programação e tecnologia transcende a mera curiosidade: é um ritual sombrio que me impulsiona a explorar os abismos do desconhecido. Cada novo projeto é uma jornada pelas trevas, onde o código se transforma em um feitiço que invoca a essência do oculto. Meu GitHub é um santuário de obras enigmáticas — desenvolvimentos web, automações e criações que ecoam na escuridão da minha alma. Se você se atrever a caminhar por estes recantos, prepare-se para desvendar segredos tão profundos quanto a noite sem fim.
+  Sou um entusiasta da programação e atualmente desenvolvo sistemas web, utilizando diversas linguagens e tecnologias. Graduado e atualmente cursando minha 2º pós, dessa vez na PUC-RIO, quero sempre melhorar e me desenvolver mais criando boas conexões e otimas memórias. Estou sempre em busca de novos pontos de vista, explorando alternativas e aprendendo continuamente para ampliar meus conhecimentos e habilidades. Além do desenvolvimento web, também sigo o caminho para me tornar um desenvolvedor de jogos de sucesso. Já realizei pequenos projetos e muitos outros ainda virão. Quem sabe o que o futuro pode reservar?
 </p>
 
 <div align="left">
