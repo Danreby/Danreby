@@ -1,7 +1,5 @@
 <div>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%23AE7BFF&width=200&lines=Hello;你好;Hola;Привет;ᦀᦊᦀᦍᦑ;Salut;Olá;こんにちは;Hallo;Ciao;안녕하세요;Olá;Salve;ᚷᛟᛞᛞᚨᚷ" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eater&pause=1000&color=14888b&width=435&lines=YOKOSO,+WATASHI+NO+SOUL+SOCIETY+E" alt="Typing SVG" /></a>
 </div>
 
 <p>
