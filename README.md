@@ -1,10 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Eater&pause=1000&color=14888b&width=600&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%81%E7%A7%81%E3%81%AE+Soul+Society+e;Yokoso%2C+watashi+no+Soul+Society+e"
-      alt="Typing SVG"
-    />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eater&pause=1000&color=14888b&width=435&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%81%E7%A7%81%E3%81%AE%E3%82%BD%E3%82%A6%E3%83%AB%E3%83%BB%E3%82%BD%E3%82%B5%E3%82%A8%E3%83%86%E3%82%A3%E3%81%B8;Yokoso%2C+watashi+no+Soul+Society+e;%E1%9B%81%E1%9B%9F%E1%9A%B2%E1%9B%9F%E1%9B%8A%E1%9B%9F%2C+%E1%9A%B9%E1%9A%A8%E1%9B%8F%E1%9A%A8%E1%9B%8A%E1%9A%BA%E1%9B%81+%E1%9A%BE%E1%9B%9F+%E1%9B%8A%E1%9B%9F%E1%9A%A2%E1%9B%9A+%E1%9B%8A%E1%9B%9F%E1%9A%B2%E1%9B%81%E1%9B%96%E1%9B%8F%E1%9B%81+%E1%9B%96" alt="Typing SVG" /></a>
 </div>
 
 ---
