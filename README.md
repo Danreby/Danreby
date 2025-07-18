@@ -19,8 +19,7 @@ Estou sempre em busca de novos desafios, aprendendo novas tecnologias e colabora
 
 ---
 
-## 🚀 Skills & Ferramentas
-Meu Portifólio:
+## 🌐 Meu Portifólio:
 https://danreby.github.io/danreby-portifolio/
 ---
 ## 🚀 Skills & Ferramentas
