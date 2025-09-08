@@ -11,7 +11,7 @@
 Sou **Bernardo Rolim**, entusiasta de programação e desenvolvedor web com foco em front-end. Atualmente:
 
 - 🎓 Graduado em Sistemas da Informação  
-- 🎓 Fazendo pós-graduação em Desenvolvimento Full-Stack na PUC-Rio  
+- 🎓 Cursando a 2º pós-graduação em Desenvolvimento Full-Stack na PUC-Rio  
 - 🏗️ Apaixonado por criar interfaces limpas, responsivas e acessíveis  
 - 🎮 Explorando também o universo de desenvolvimento de jogos
 
@@ -20,7 +20,10 @@ Estou sempre em busca de novos desafios, aprendendo novas tecnologias e colabora
 ---
 
 ## 🌐 Meu Portifólio:
-https://danreby.github.io/danreby-portifolio/
+<a href="https://danreby.github.io/danreby-portifolio/">
+  Bernardo Rolim
+<a/>
+
 ---
 ## 🚀 Skills & Ferramentas
 
