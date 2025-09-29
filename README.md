@@ -6,7 +6,7 @@
 
 ## Olá! ☕ Seja bem-vindo
 
-> Pega um café e fique à vontade!
+> Pega um café e fica à vontade!
 
 SMe chamo **Bernardo Rolim**, entusiasta de programação e desenvolvedor web com foco em front-end. Atualmente:
 
