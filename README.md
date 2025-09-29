@@ -23,7 +23,7 @@ Estou sempre em busca de novos desafios, aprendendo novas tecnologias e colabora
 <a href="https://danreby.github.io/danreby-portifolio/" 
    target="_blank" 
    rel="noopener noreferrer">
-  Bernardo Rolim
+  ### Bernardo Rolim
 </a>
 
 ---
