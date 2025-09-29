@@ -6,9 +6,9 @@
 
 ## Olá! ☕ Seja bem-vindo
 
-> Pega um café (ou água) e fique à vontade!
+> Pega um café e fique à vontade!
 
-Sou **Bernardo Rolim**, entusiasta de programação e desenvolvedor web com foco em front-end. Atualmente:
+SMe chamo **Bernardo Rolim**, entusiasta de programação e desenvolvedor web com foco em front-end. Atualmente:
 
 - 🎓 Graduado em Sistemas da Informação  
 - 🎓 Cursando a 2º pós-graduação em Desenvolvimento Full-Stack na PUC-Rio  
@@ -23,7 +23,7 @@ Estou sempre em busca de novos desafios, aprendendo novas tecnologias e colabora
 <a href="https://danreby.github.io/danreby-portifolio/" 
    target="_blank" 
    rel="noopener noreferrer">
-  ### Bernardo Rolim
+  Bernardo Rolim
 </a>
 
 ---
