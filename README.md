@@ -8,7 +8,7 @@
 
 > Pega um café e fica à vontade!
 
-SMe chamo **Bernardo Rolim**, entusiasta de programação e desenvolvedor web com foco em front-end. Atualmente:
+Me chamo **Bernardo Rolim**, entusiasta de programação e desenvolvedor web com foco em front-end. Atualmente:
 
 - 🎓 Graduado em Sistemas da Informação  
 - 🎓 Cursando a 2º pós-graduação em Desenvolvimento Full-Stack na PUC-Rio  
