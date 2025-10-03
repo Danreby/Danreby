@@ -13,7 +13,7 @@ Me chamo **Bernardo Rolim**, entusiasta de programação e desenvolvedor web com
 - 🎓 Graduado em Sistemas da Informação  
 - 🎓 Cursando a 2º pós-graduação em Desenvolvimento Full-Stack na PUC-Rio  
 - 🏗️ Apaixonado por criar interfaces limpas, responsivas e acessíveis  
-- 🎮 Explorando também o universo de desenvolvimento de jogos
+- 🎮 Explorando o universo de desenvolvimento de jogos
 
 Estou sempre em busca de novos desafios, aprendendo novas tecnologias e colaborando em projetos que façam a diferença.
 
