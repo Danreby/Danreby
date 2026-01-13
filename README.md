@@ -48,17 +48,6 @@ Estou sempre em busca de novos desafios, aprendendo novas tecnologias e colabora
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <a href="https://github.com/Danreby">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danreby&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danreby&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
-  </a>
-</div>
-
----
-
 <p align="center">
   <a href="https://instagram.com/neydo.rar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
