@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eater&pause=1000&color=14888B&width=435&lines=At%C3%A9+o+infinito...+e+al%C3%A9m...+%F0%9F%9A%80;To+infinity...+and+beyond...+%F0%9F%9A%80;%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A8%E4%BA%8C%E7%99%BE%E5%9B%9B%E5%8D%81%E4%BA%94%E6%97%A5+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eater&pause=1000&color=14888B&width=435&linesI've+been+confused+as+of+late;Watching+my+youth+slip+away;You're+like+the+sun%2C+you+wake+me+up;But+you+drain+me+out+if+I+get+too+much;I+might+need+room+or+I'll+break" alt="Typing SVG" /></a>
 </div>
 
 ---
