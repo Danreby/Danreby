@@ -11,8 +11,8 @@
 Me chamo **Bernardo Rolim**, entusiasta de programação e desenvolvedor web com foco em front-end. Atualmente:
 
 - 🎓 Graduado em Sistemas da Informação
-- 🎓 Pós graduação em Desenvolvimento Full-Stack na PUC-RIO
-- 🎓 Pós graduação em Desenvolvimento de Jogos na IBMR
+- 🎓 Pós graduado em Desenvolvimento Full-Stack na PUC-RIO
+- 🎓 Pós graduado em Desenvolvimento de Jogos na IBMR
 - 🏗️ Apaixonado por criar interfaces limpas, responsivas e acessíveis  
 - 🎮 Explorando o universo de desenvolvimento de jogos
 
