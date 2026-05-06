@@ -4,9 +4,9 @@
 
 ---
 
-## Olá! ☕ Seja bem-vindo
+## Olá! 🐥🐣 Seja bem-vindo
 
-> Pega um café e fica à vontade!
+> Pega um café e se acomoda ai!
 
 Me chamo **Bernardo Santos Rolim**, entusiasta de programação e desenvolvedor web com foco em front-end. Atualmente:
 
