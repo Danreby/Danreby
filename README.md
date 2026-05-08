@@ -19,9 +19,9 @@ Me chamo **Bernardo Santos Rolim**, entusiasta de programação e desenvolvedor 
 Estou sempre em busca de novos desafios, aprendendo novas tecnologias e colaborando em projetos que façam a diferença.
 
 ---
-
-## 🌐 Meu Portifólio:
 <div align="center">
+## 🌐 Meu Portifólio:
+
   [Bernardo S. Rolim](https://danreby.github.io/danreby-portifolio/)
 </div>
 ---
