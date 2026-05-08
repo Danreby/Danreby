@@ -21,12 +21,7 @@ Estou sempre em busca de novos desafios, aprendendo novas tecnologias e colabora
 ---
 
 ## 🌐 Meu Portifólio:
-<a href="https://danreby.github.io/danreby-portifolio/" 
-   target="_blank" 
-   rel="noopener noreferrer">
-  Bernardo S. Rolim
-</a>
-
+[Bernardo S. Rolim](https://danreby.github.io/danreby-portifolio/)
 ---
 ## 🚀 Skills & Ferramentas
 
