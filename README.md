@@ -48,6 +48,8 @@ Estou sempre em busca de novos desafios, aprendendo novas tecnologias e colabora
   <!-- <img width="40%" src="https://github-readme-stats-liard-nine-96.vercel.app/api/top-langs/?username=Danreby&show_icons=true&theme=transparent&layout=compact" /> -->
 </div> 
 
+---
+
 <p align="center">
   <a href="https://instagram.com/neydo.rar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
