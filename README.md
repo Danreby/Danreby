@@ -4,7 +4,7 @@
 
 ---
 
-## Olá! 🐣 Seja bem-vindo
+## Opa! 🐣 Seja bem-vindo
 
 > Pega um café e se acomoda ai!
 
