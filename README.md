@@ -46,7 +46,8 @@ Estou sempre em busca de novos desafios, aprendendo novas tecnologias e colabora
 
 <div align="center" style="margin-bottom:100px">
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=Danreby&theme=transparent&mode=weekly" />
-  <img width="40%" src="https://github-readme-stats-liard-nine-96.vercel.app/api/top-langs/?username=Danreby&show_icons=true&theme=transparent&layout=compact" />
+  <!-- <img width="40%" src="https://github-readme-stats-liard-nine-96.vercel.app/api/top-langs/?username=Danreby&show_icons=true&theme=transparent&layout=compact" /> -->
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danreby&layout=compact&theme=transparent&title_color=14888B&text_color=ffffff&border_color=14888B&hide_border=false" />
 </div>
 
 ---
